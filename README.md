@@ -6,6 +6,9 @@ and install with Maven (mvn install)
 
 # Start application
 clone Homework4Nfc github repo and package it with Maven (mvn package)
+
+Cd target dir and start java program
+
 java -jar Homework4NDef-1.0-SNAPSHOT.jar
 
 It is tested with ACR122U and Mifare Ultralight C
