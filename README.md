@@ -11,7 +11,7 @@ cd target dir and start java program
 
 java -jar Homework4NDef-1.0-SNAPSHOT.jar
 
-It is tested with ACR122U and Mifare Ultralight C
+It is tested with ACR122U and Mifare Ultralight C on Windows 10
 
 # Write code to tag
 Add NDef(JSON) text below and press "Küldés" button to write to tag.
