@@ -1,0 +1,5 @@
+{"method":"onNdefStarted","data":{"message":"Connected to ACS ACR122U PICC Interface 0","status":"true"}}
+{"method":"onNdefOperations","data":{"formatted":true,"writeable":true,"empty":false,"ndefRecords":[{"text":"infokristaly.hu","type":"textRecord"}]}}
+{"method":"onNdefOperations","data":{"formatted":true,"writeable":true,"empty":false,"ndefRecords":[]}}
+
+{"formatted":true,"writeable":true,"empty":false,"ndefRecords":[{"text":"infokristaly.hu","type":"textRecord"},{"text":"nfcshop.hu","type":"textRecord"}]}
